@@ -23,6 +23,7 @@ namespace Loja.Controllers
                 return View(fornecedor);
             }
             return View();
+            
         }
     }
 }
